@@ -1,0 +1,19 @@
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.Internal/bin/Release/netstandard2.0/win-x64/Timetabling.Internal.deps.json
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.Internal/bin/Release/netstandard2.0/win-x64/Timetabling.Internal.dll
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.Internal/bin/Release/netstandard2.0/win-x64/Timetabling.Internal.pdb
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.Internal/obj/Release/netstandard2.0/win-x64/Timetabling.Internal.csproj.AssemblyReference.cache
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.Internal/obj/Release/netstandard2.0/win-x64/Timetabling.Internal.AssemblyInfoInputs.cache
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.Internal/obj/Release/netstandard2.0/win-x64/Timetabling.Internal.AssemblyInfo.cs
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.Internal/obj/Release/netstandard2.0/win-x64/Timetabling.Internal.csproj.CoreCompileInputs.cache
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.Internal/obj/Release/netstandard2.0/win-x64/Timetabling.Internal.dll
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.Internal/obj/Release/netstandard2.0/win-x64/Timetabling.Internal.pdb
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.Internal/bin/Release/netstandard2.0/win-x64/Timetabling.Internal.deps.json
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.Internal/bin/Release/netstandard2.0/win-x64/Timetabling.Internal.dll
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.Internal/bin/Release/netstandard2.0/win-x64/Timetabling.Internal.pdb
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.Internal/obj/Release/netstandard2.0/win-x64/Timetabling.Internal.csproj.AssemblyReference.cache
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.Internal/obj/Release/netstandard2.0/win-x64/Timetabling.Internal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.Internal/obj/Release/netstandard2.0/win-x64/Timetabling.Internal.AssemblyInfoInputs.cache
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.Internal/obj/Release/netstandard2.0/win-x64/Timetabling.Internal.AssemblyInfo.cs
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.Internal/obj/Release/netstandard2.0/win-x64/Timetabling.Internal.csproj.CoreCompileInputs.cache
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.Internal/obj/Release/netstandard2.0/win-x64/Timetabling.Internal.dll
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.Internal/obj/Release/netstandard2.0/win-x64/Timetabling.Internal.pdb

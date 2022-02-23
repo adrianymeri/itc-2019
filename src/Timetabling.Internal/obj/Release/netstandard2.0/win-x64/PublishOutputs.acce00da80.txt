@@ -1,0 +1,3 @@
+/Users/adrianymeri/Timetabling/itc-2019/bin/win-x64/Timetabling.Internal.dll
+/Users/adrianymeri/Timetabling/itc-2019/bin/win-x64/Timetabling.Internal.deps.json
+/Users/adrianymeri/Timetabling/itc-2019/bin/win-x64/Timetabling.Internal.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZfDprUUvYh22DkKrFan/HjvWCcYtjHwUfjPT2P0TDIOkXRikYcHw2wp9mRvSy1EmnL/gp9QWua+WjeO5zyDbiA==",
+  "success": true,
+  "projectFilePath": "/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.Internal/Timetabling.Internal.csproj",
+  "expectedPackageFiles": [
+    "/Users/adrianymeri/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/adrianymeri/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

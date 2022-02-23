@@ -1,0 +1,38 @@
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.CLI/bin/Release/netcoreapp2.1/win-x64/hostpolicy.dll
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.CLI/bin/Release/netcoreapp2.1/win-x64/hostfxr.dll
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.CLI/bin/Release/netcoreapp2.1/win-x64/Timetabling.CLI.exe
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.CLI/bin/Release/netcoreapp2.1/win-x64/Timetabling.CLI.deps.json
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.CLI/bin/Release/netcoreapp2.1/win-x64/Timetabling.CLI.runtimeconfig.json
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.CLI/bin/Release/netcoreapp2.1/win-x64/Timetabling.CLI.runtimeconfig.dev.json
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.CLI/bin/Release/netcoreapp2.1/win-x64/Timetabling.CLI.dll
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.CLI/bin/Release/netcoreapp2.1/win-x64/Timetabling.CLI.pdb
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.CLI/bin/Release/netcoreapp2.1/win-x64/Timetabling.Common.dll
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.CLI/bin/Release/netcoreapp2.1/win-x64/Timetabling.Internal.dll
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.CLI/bin/Release/netcoreapp2.1/win-x64/Timetabling.Common.pdb
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.CLI/bin/Release/netcoreapp2.1/win-x64/Timetabling.Internal.pdb
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.CLI/obj/Release/netcoreapp2.1/win-x64/Timetabling.CLI.fsproj.AssemblyReference.cache
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.CLI/obj/Release/netcoreapp2.1/win-x64/Timetabling.CLI.AssemblyInfoInputs.cache
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.CLI/obj/Release/netcoreapp2.1/win-x64/Timetabling.CLI.AssemblyInfo.fs
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.CLI/obj/Release/netcoreapp2.1/win-x64/Timetabling.CLI.fsproj.CopyComplete
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.CLI/obj/Release/netcoreapp2.1/win-x64/Timetabling.CLI.dll
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.CLI/obj/Release/netcoreapp2.1/win-x64/Timetabling.CLI.pdb
+C:/Users/Anita YMERI/Desktop/Timetabling/itc-2019/src/Timetabling.CLI/obj/Release/netcoreapp2.1/win-x64/Timetabling.CLI.genruntimeconfig.cache
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.CLI/bin/Release/netcoreapp2.1/win-x64/hostpolicy.dll
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.CLI/bin/Release/netcoreapp2.1/win-x64/hostfxr.dll
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.CLI/bin/Release/netcoreapp2.1/win-x64/Timetabling.CLI.exe
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.CLI/bin/Release/netcoreapp2.1/win-x64/Timetabling.CLI.deps.json
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.CLI/bin/Release/netcoreapp2.1/win-x64/Timetabling.CLI.runtimeconfig.json
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.CLI/bin/Release/netcoreapp2.1/win-x64/Timetabling.CLI.runtimeconfig.dev.json
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.CLI/bin/Release/netcoreapp2.1/win-x64/Timetabling.CLI.dll
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.CLI/bin/Release/netcoreapp2.1/win-x64/Timetabling.CLI.pdb
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.CLI/bin/Release/netcoreapp2.1/win-x64/Timetabling.Common.dll
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.CLI/bin/Release/netcoreapp2.1/win-x64/Timetabling.Internal.dll
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.CLI/bin/Release/netcoreapp2.1/win-x64/Timetabling.Common.pdb
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.CLI/bin/Release/netcoreapp2.1/win-x64/Timetabling.Internal.pdb
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.CLI/obj/Release/netcoreapp2.1/win-x64/Timetabling.CLI.fsproj.AssemblyReference.cache
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.CLI/obj/Release/netcoreapp2.1/win-x64/Timetabling.CLI.AssemblyInfoInputs.cache
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.CLI/obj/Release/netcoreapp2.1/win-x64/Timetabling.CLI.AssemblyInfo.fs
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.CLI/obj/Release/netcoreapp2.1/win-x64/Timetabling.CLI.fsproj.CopyComplete
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.CLI/obj/Release/netcoreapp2.1/win-x64/Timetabling.CLI.dll
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.CLI/obj/Release/netcoreapp2.1/win-x64/Timetabling.CLI.pdb
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.CLI/obj/Release/netcoreapp2.1/win-x64/Timetabling.CLI.genruntimeconfig.cache

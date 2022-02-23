@@ -1,0 +1,11 @@
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.Common/bin/Release/netstandard2.0/linux-x64/Timetabling.Common.deps.json
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.Common/bin/Release/netstandard2.0/linux-x64/Timetabling.Common.dll
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.Common/bin/Release/netstandard2.0/linux-x64/Timetabling.Common.pdb
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.Common/bin/Release/netstandard2.0/linux-x64/Timetabling.Internal.dll
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.Common/bin/Release/netstandard2.0/linux-x64/Timetabling.Internal.pdb
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.Common/obj/Release/netstandard2.0/linux-x64/Timetabling.Common.fsproj.AssemblyReference.cache
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.Common/obj/Release/netstandard2.0/linux-x64/Timetabling.Common.AssemblyInfoInputs.cache
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.Common/obj/Release/netstandard2.0/linux-x64/Timetabling.Common.AssemblyInfo.fs
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.Common/obj/Release/netstandard2.0/linux-x64/Timetabling.Common.fsproj.CopyComplete
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.Common/obj/Release/netstandard2.0/linux-x64/Timetabling.Common.dll
+/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.Common/obj/Release/netstandard2.0/linux-x64/Timetabling.Common.pdb

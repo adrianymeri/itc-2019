@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "86u6RityHSdiLy/RG+v6Biqu6DQhptz0FEr5JyYV4W0tU/FEsHMmDP4gBkIuPd7h0WwEnjhCW5g/M7xBNCUbLw==",
+  "success": true,
+  "projectFilePath": "/Users/adrianymeri/Timetabling/itc-2019/src/Timetabling.Common/Timetabling.Common.fsproj",
+  "expectedPackageFiles": [
+    "/Users/adrianymeri/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512",
+    "/Users/adrianymeri/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/adrianymeri/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
